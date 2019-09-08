@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-
+import 'react-circular-progressbar/dist/index';
 export default createGlobalStyle`
   *{
     margin:0;
